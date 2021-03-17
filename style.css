@@ -1,0 +1,65 @@
+.title {
+  background-color: yellow;
+  color: lightblue;
+  text-align: center;
+}
+
+.intro {
+  font-family: brushscriptmt, cursive;
+  font-size: 150%;
+}
+
+#back {
+  height: 35px;
+  width: 25%;
+  background-color: yellow;
+  color: lightblue;
+  font-size: 130%;
+  font-family: brushscriptmt, cursive;
+  font-weight: bolder;
+}
+
+#pic {
+  height: 35px;
+  width: 25%;
+  background-color: yellow;
+  color: lightblue;
+  font-size: 130%;
+  font-family: brushscriptmt, cursive;
+  font-weight: bolder;
+}
+
+#apology {
+  height: 35px;
+  width: 25%;
+  background-color: yellow;
+  color: lightblue;
+  font-size: 130%;
+  font-family: brushscriptmt, cursive;
+  font-weight: bolder;
+}
+
+#majic {
+  height: 35px;
+  width: 25%;
+  background-color: yellow;
+  color: lightblue;
+  font-size: 130%;
+  font-family: brushscriptmt, cursive;
+  font-weight: bolder;
+}
+
+#majic2 {
+  height: 35px;
+  width: 25%;
+  background-color: yellow;
+  color: lightblue;
+  font-size: 130%;
+  font-family: brushscriptmt, cursive;
+  font-weight: bolder;
+}
+
+#changeText {
+  font-family: brushscriptmt, cursive;
+  font-size: 150%;
+}
